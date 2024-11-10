@@ -1,1 +1,1 @@
-# Alx_DjangoLearnLab
+Learning Django framework through hands-on projects
